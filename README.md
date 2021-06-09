@@ -10,3 +10,10 @@ but generating a unicode password is hard, it consists of 3 steps:
 
 
 This application is the <b>third</b> step in generating random unicode password
+
+
+Dependency:
+libsodium
+
+Limitation:
+Due to some unsolvable technical problem, people can only generate one random unicode per application run.
